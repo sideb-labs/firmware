@@ -68,7 +68,7 @@ so that you can relink the firmware with a modified core. The source code of
 the Arduino-ESP32 core itself is available from
 https://github.com/espressif/arduino-esp32 (tag 2.0.17).
 
-Contact: SideB Labs — sideblabs@gmail.com c
+Contact: SideB Labs — sideblabs@gmail.com
 
 ## Not included
 
