@@ -23,6 +23,7 @@ Arduino-ESP32 2.0.17 on ESP-IDF v4.4.7).
 | U8g2 (code) | 2.32.10 | BSD 2-clause | Copyright (c) 2016, olikraus@gmail.com | `licenses/U8g2-BSD.txt` |
 | WiFiManager | 2.0.17 | MIT | Copyright (c) 2015 tzapu | `licenses/WiFiManager-MIT.txt` |
 | LovyanGFX (colour models only) | 1.1.16 | FreeBSD, with MIT/BSD parts from Adafruit and others listed in its licence file | Copyright (c) lovyan03 and contributors | `licenses/LovyanGFX.txt` |
+| JPEGDEC (progressive JPEG covers) | 1.8.4 | Apache License 2.0 | Copyright 2020 BitBank Software, Inc. | `licenses/JPEGDEC-Apache-2.0.txt` |
 
 ## Fonts compiled into the firmware
 
